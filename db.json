@@ -1,0 +1,27 @@
+{
+    "students": [
+      {
+        
+        "fname": "Leanne",
+        "lname": "hius",
+        "address":"abcdhgkkug",
+        "email": "Sincere@april.biz",
+        "mobile": "9876543210",
+        "gender": "Female",
+        "dob": "10-05-2000",
+        "groups": "Biology"
+      },
+      {
+        "fname": "luis",
+        "lname": "mery",
+        "address":"abcdhgkkug",
+        "email": "luies@april.biz",
+        "mobile": "9876543210",
+        "gender": "Female",
+        "dob": "11-10-2003",
+        "groups": "Commerce"
+      }
+      
+   ]
+
+  }
